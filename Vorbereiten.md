@@ -8,7 +8,7 @@ Vorbereiten
 
 Macht Euch mit dem Anlegen einer virtuellen Maschine, mittels dem jeweiligen User Interface, vertraut. Als Betriebsystem verwendet Ihr **Ubuntu** Linux.
 
-**Für den Workshop ist es Vorraussetzung, dass Ihr Alleine ohne Support eine virtuelle Maschine anlegen könnt.**
+**Für den Workshop ist es Vorraussetzung, dass Ihr selbstständig eine virtuelle Maschine anlegen könnt.**
 
 **Optional, nur Übungen 2 + 4**
 
@@ -17,4 +17,6 @@ Installiert, dass zur Cloud, gehörende Kommandozeilentool (CLI) auf Eurem lokal
 * [Azure](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 * [AWS](https://aws.amazon.com/de/cli/)
 * [Google](https://cloud.google.com/sdk/gcloud)
+
+ 
 
