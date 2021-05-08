@@ -4,7 +4,7 @@ Infrastructure as Code Workshop
 Workshop "Infrastructure as Code" anlässlich des [Interkantonalen Weiterbildungstags der Informatikfachkunde-Lehrpersonen](https://sites.google.com/view/weiterbildungstag-informatik/home).
 
 * [Vorbereiten](Vorbereiten.md)
-* [Folien](2021-05-12-IaC und LernMAAS.pdf)
+* [Folien](2021-05-12-IaCundLernMAAS.pdf)
 
 ### Eisenzeit (Imperativ) vs. die Cloud (Deklarativ)
 
