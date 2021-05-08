@@ -6,6 +6,10 @@ Vorbereiten
 * [Azure](https://azure.microsoft.com/en-us/free/)
 * [AWS](https://aws.amazon.com/de/free/)
 
+Macht Euch mit dem Anlegen von VMs auf den Cloud Plattformen vertraut.
+
+**Optional**: Installiert das [CLI](#optional-nur-übungen-2--4) der entsprechenden Cloud.
+
 ***
 ### VMs Anlegen
 
