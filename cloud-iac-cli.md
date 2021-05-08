@@ -17,10 +17,12 @@ Anschliessend müssen folgende Aktionen ausgeführt werden:
 * Erstellen einer Ressource Gruppe, wo unsere VMs abgelegt werden:    
 * Erstellen der VM 
 * Freigeben des Ports 80, damit wir via Browser auf die VM bzw. die Installierten Services zugreifen können.
-    
+
+<pre>
     az group create --name mygroup --location southcentralus
     az vm create --resource-group mygroup --name myvm --image UbuntuLTS --size Standard_D2_v4 --location southcentralus --custom-data cloud-init.cfg    
     az vm open-port --port 80 --resource-group mygroup --name myvm
+</pre>    
     
 **Überprüft das Ergebnis, durch Anwählen der IP-Adresse Eurer VM im Browser.**
 
@@ -43,16 +45,14 @@ Anschliessend müssen folgende Aktionen ausgeführt werden:
 * Security Group erstellen und Ports öffnen
 * Erstellen der VM 
 
+<pre>
     aws ec2 create-security-group --group-name mygroup --description "Standard Ports"
     aws ec2 authorize-security-group-ingress --group-name mygroup --protocol tcp --port 22 --cidr 0.0.0.0/0
     aws ec2 authorize-security-group-ingress --group-name mygroup --protocol tcp --port 80 --cidr 0.0.0.0/0   
     
-    aws ec2 run-instances --image-id ami-0767046d1677be5a0 \
-        --security-group-ids mygroup \
-        --instance-type t2.micro \
-        --count 1 \
-        --user-data file://cloud-init.cfg
-        
+    aws ec2 run-instances --image-id ami-0767046d1677be5a0 --security-group-ids mygroup --instance-type t2.micro --count 1 --user-data file://cloud-init.cfg
+</pre>
+
 Anschliessend können wir uns die laufenden VMs anzeigen
 
     aws ec2 describe-instances --output table    
