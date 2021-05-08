@@ -21,7 +21,7 @@ Anschliessend müssen folgende Aktionen ausgeführt werden:
 <pre>
 az group create --name mylerngroup --location southcentralus
 az vm create --resource-group mylerngroup --name m122-02 --image UbuntuLTS --size Standard_D2_v4 --location southcentralus --custom-data cloud-init.cfg    
-az vm open-port --port 80 --resource-group mylerngroup --name myvm
+az vm open-port --port 80 --resource-group mylerngroup --name m122-02
 </pre>    
     
 **Überprüft das Ergebnis, durch Anwählen der IP-Adresse Eurer VM im Browser.**
