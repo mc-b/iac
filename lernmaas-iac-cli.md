@@ -61,6 +61,8 @@ Anschliessend können wir uns die laufenden VMs anzeigen
         
 ### Links
 
+* [IT Ausbildungsmodule](https://github.com/tbz-it)
+* [Konfigurationsdatei mit Grössenangaben VM](https://github.com/mc-b/lernmaas/blob/master/config.yaml)
 * [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/)
 * [AWS CLI](https://aws.amazon.com/de/cli/)
 * [Offizielle Cloud-init Beispiele](https://cloudinit.readthedocs.io/en/latest/topics/examples.html)

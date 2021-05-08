@@ -38,5 +38,7 @@ Mittels User `ubuntu` und Password `password` könnt Ihr Euch via `ssh` in die V
 
 **Links**
 
+* [IT Ausbildungsmodule](https://github.com/tbz-it)
+* [Konfigurationsdatei mit Grössenangaben VM](https://github.com/mc-b/lernmaas/blob/master/config.yaml)
 * [Offizielle Cloud-init Beispiele](https://cloudinit.readthedocs.io/en/latest/topics/examples.html)
 * [lernMAAS und Cloud-init in der Public Cloud](https://github.com/mc-b/lernmaas/tree/master/doc/Cloud)
