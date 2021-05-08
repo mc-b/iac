@@ -3,7 +3,7 @@
 
 Verwendet das nachfolgende Cloud-init Script um eine Umgebung für das Modul 122 anzulegen.
 
-Geht dabei gleich für wie bei [Übung 1](cloud-iac.md).
+Geht dabei gleich vor wie bei [Übung 1](cloud-iac.md).
 
 
     #cloud-config
