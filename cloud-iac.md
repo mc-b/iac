@@ -1,7 +1,7 @@
 Übung 1: VM mit Services in der Cloud anlegen
 ---------------------------------------------
 
-Verwendet jweils einer der nachfolgenden Cloud-init Scripte um eine Virtuelle Maschine (VM), inkl. Services, zu installieren.
+Verwendet jeweils eines der nachfolgenden Cloud-init Scripte um eine Virtuelle Maschine (VM), inkl. Services, zu installieren.
 
 ### nginx Web Server
 
