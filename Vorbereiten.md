@@ -35,5 +35,5 @@ Installiert, dass zur Cloud, gehörende Kommandozeilentool (CLI) auf Eurem lokal
 * [Azure](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 * [AWS](https://aws.amazon.com/de/cli/)
 
- 
+**Achtung**: für AWS sind weitere [Konfigurationen](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html) nötig.
 
