@@ -59,3 +59,10 @@ Anschliessend können wir uns die laufenden VMs anzeigen
     
 **Überprüft das Ergebnis, durch Anwählen der IP-Adresse Eurer VM im Browser.**
         
+### Links
+
+* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/)
+* [AWS CLI](https://aws.amazon.com/de/cli/)
+* [Offizielle Cloud-init Beispiele](https://cloudinit.readthedocs.io/en/latest/topics/examples.html)
+* [lernMAAS und Cloud-init in der Public Cloud](https://github.com/mc-b/lernmaas/tree/master/doc/Cloud)
+        

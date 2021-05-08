@@ -1,4 +1,4 @@
-Übung 3: Ausbildungumgebung in der Cloud anlegen
+Übung 3: Ausbildungsumgebung in der Cloud anlegen
 ------------------------------------------------
 
 Verwendet das nachfolgende Cloud-init Script um eine Umgebung für das Modul 122 anzulegen.
