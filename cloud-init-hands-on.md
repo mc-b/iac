@@ -59,6 +59,15 @@ Die verwendete Konfiguration, welche aus `User data` erzeugt wurde, kann im Verz
 
 * **/var/lib/cloud/instance** - z.B. Datei `user-data.txt` oder `scripts/runcmd` angeschaut werden.
 
+#### Links
+
+* [Cloud-init Dokumentation](https://cloudinit.readthedocs.io/en/latest/)
+* [Ubuntu und Cloud-init](https://help.ubuntu.com/community/CloudInit)
+* [AWS und Cloud-init](http://techflare.blog/beginner-tutorial-cloud-init-in-aws/)
+* [Azure und Cloud-init](https://docs.microsoft.com/en-us/azure/virtual-machines/custom-data)
+* [Google und Cloud-init](https://cloud.google.com/container-optimized-os/docs/how-to/create-configure-instance#using_cloud-init_with_the_cloud_config_format)
+
+***
 ### Weitere Informationen
 
 **Linux**
@@ -75,11 +84,3 @@ Die verwendete Konfiguration, welche aus `User data` erzeugt wurde, kann im Verz
 **Service Konfiguration**
 * [Einleitung](https://github.com/mc-b/M300/blob/master/80-Ergaenzungen/srvkonfiguration/01-Einleitung.md)
 * [systemd](https://github.com/mc-b/M300/blob/master/80-Ergaenzungen/srvkonfiguration/02-systemd.md)
-
-### Links
-
-* [Dokumentation](https://cloudinit.readthedocs.io/en/latest/)
-* [Ubuntu und Cloud-init](https://help.ubuntu.com/community/CloudInit)
-* [AWS und Cloud-init](http://techflare.blog/beginner-tutorial-cloud-init-in-aws/)
-* [Azure und Cloud-init](https://docs.microsoft.com/en-us/azure/virtual-machines/custom-data)
-* [Google und Cloud-init](https://cloud.google.com/container-optimized-os/docs/how-to/create-configure-instance#using_cloud-init_with_the_cloud_config_format)
