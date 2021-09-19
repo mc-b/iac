@@ -41,11 +41,12 @@ Wir können diese Geschwindigkeit nutzen für eine höhere Zuverlässigkeit sowi
 
 * [Übung 1: VM mit Services in der Cloud anlegen](cloud-iac.md)
 * [Übung 2: VM mit Services, mittels CLI, anlegen](cloud-iac-cli.md)
+* [Übung 3: Cloud-init Hands-on](cloud-init-hands-on.md)
 
 **LernMAAS**
 
-* [Übung 3: Ausbildungumgebung in der Cloud anlegen](lernmaas-iac.md)
-* [Übung 4: Ausbildungsumgebung in der Cloud, mittels CLI, anlegen](lernmaas-iac-cli.md)
+* [Übung 4: Ausbildungumgebung in der Cloud anlegen](lernmaas-iac.md)
+* [Übung 5: Ausbildungsumgebung in der Cloud, mittels CLI, anlegen](lernmaas-iac-cli.md)
 
 ## Links
 

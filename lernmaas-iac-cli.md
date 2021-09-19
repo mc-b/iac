@@ -1,4 +1,4 @@
-Übung 4: Ausbildungsumgebung in der Cloud, mittels CLI, anlegen
+Übung 5: Ausbildungsumgebung in der Cloud, mittels CLI, anlegen
 ------------------------------------------------
 
 Erstellt mit NotePad, vi, nano etc. eine Datei mit Namen cloud-init.cfg.
