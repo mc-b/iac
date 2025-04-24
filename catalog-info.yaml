@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: iac
+  namespace: mc-b
+  description: Infrastructure as Code
+  tags: []
+  links:
+  - url: https://github.com/mc-b/iac
+    title: Repository
+    icon: github
+  annotations:
+    github.com/project-slug: mc-b/iac
+    backstage.io/source-location: url:https://github.com/mc-b/iac
+    backstage.io/techdocs-ref: url:https://github.com/mc-b/iac
+spec:
+  type: education
+  lifecycle: deprecated
+  owner: group:mc-b/mc-b
