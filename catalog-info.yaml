@@ -6,6 +6,7 @@ metadata:
   description: Workshop "Infrastructure as Code" anlässlich des Interkantonalen Weiterbildungstags der Informatikfachkunde-Lehrpersonen
   tags:
   - tbz
+  - education
   links:
   - url: https://github.com/mc-b/iac
     title: Repository
@@ -15,6 +16,6 @@ metadata:
     backstage.io/source-location: url:https://github.com/mc-b/iac
     # backstage.io/techdocs-ref: url:https://github.com/mc-b/iac
 spec:
-  type: education
-  lifecycle: production
+  type: website
+  lifecycle: deprecated
   owner: group:mc-b/mc-b
